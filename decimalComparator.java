@@ -50,7 +50,7 @@ public class decimalComparator {
 
     }
 
-    public static void daysinlese(int day) {
+    public static void dayOftheWeek(int day) {
         if (day == 0) {
             System.out.println("SUNDAY");
         } else if (day == 1) {

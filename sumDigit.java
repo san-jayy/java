@@ -17,6 +17,7 @@ public class sumDigit {
             num = num / 10;
         }
 
-      return number==Reverse;
+        return number == Reverse;
 
+    }
 }

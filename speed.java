@@ -1,10 +1,4 @@
-import java.lang.reflect.Method;
 
-import org.graalvm.compiler.nodes.calc.IntegerLessThanNode.LessThanOp;
-
-/**
- * speed
- */
 public class speed {
 
     public static void main(String[] args) {

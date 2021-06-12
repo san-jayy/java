@@ -5,9 +5,9 @@ public class some {
     public static void main(String[] args) {
 
         int maxIntNumber = Integer.MAX_VALUE; // maximun number that an integer can
-        store ie. 2147483647
+        // store ie. 2147483647
         int minIntNumber = Integer.MIN_VALUE; // minimun number that an integer can
-        store ie. -2147483648
+        // store ie. -2147483648
         System.out.println("Maximum integer number = " + maxIntNumber);
         System.out.println("Minimum integer number = " + minIntNumber);
 
@@ -30,13 +30,12 @@ public class some {
 
         // long
         // long numbers need L to be written after the numbers for it to be
-        identified
+        // identified
         // as long, ie. long age = 1272345667788888L;
         // min and maximum value of long
         // long ocupies 64 bits
         System.out.println("Maximum long value=" + Long.MAX_VALUE);
         System.out.println("Minimum long value=" + Long.MIN_VALUE);
-
 
     }
 }
