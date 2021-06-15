@@ -1,3 +1,6 @@
+
+package basicChallengeCodes;
+
 public class methods {
     public static void main(String[] args) {
         int highscore = calculator(true, 1000, 5, 200);

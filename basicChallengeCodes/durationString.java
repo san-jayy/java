@@ -1,3 +1,5 @@
+package basicChallengeCodes;
+
 public class durationString {
 
     public static void main(String[] args) {

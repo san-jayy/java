@@ -1,3 +1,5 @@
+package basicChallengeCodes;
+
 public class leapYearcalculator {
     public static void main(String[] args) {
         System.out.println(isLeapYear(1924));

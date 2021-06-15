@@ -1,3 +1,6 @@
+
+package basicChallengeCodes;
+
 public class decimalComparator {
     public static void main(String[] args) {
 

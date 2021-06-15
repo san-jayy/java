@@ -1,3 +1,5 @@
+package basicChallengeCodes;
+
 public class deciConverter {
     public static void main(String[] args) {
         System.out.println(areEqualByThreeDecimalPlaces(-1.123, -1.123));

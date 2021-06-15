@@ -1,3 +1,5 @@
+package basicChallengeCodes;
+
 public class sumDigit {
 
     public static void main(String[] args) {

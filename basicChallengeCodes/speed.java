@@ -1,3 +1,4 @@
+package basicChallengeCodes;
 
 public class speed {
 

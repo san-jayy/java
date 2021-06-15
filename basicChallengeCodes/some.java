@@ -1,5 +1,6 @@
 
 //primitive types-int -long-short and byte
+package basicChallengeCodes;
 
 public class some {
     public static void main(String[] args) {

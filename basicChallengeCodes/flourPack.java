@@ -1,3 +1,6 @@
+
+package basicChallengeCodes;
+
 public class flourPack {
 
     public static void main(String[] args) {
