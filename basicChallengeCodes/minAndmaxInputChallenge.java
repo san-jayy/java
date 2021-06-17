@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class minAndmaxInputChallenge {
 
     public static void main(String[] args) {
-        int max = 0;
-        int min = 0;
+        int max = -2147483647;
+        int min = 2147483647;
         boolean first = true;
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter the numbers and press any key to find the min and max ");
