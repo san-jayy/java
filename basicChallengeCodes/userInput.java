@@ -8,6 +8,7 @@ class Main {
 
         System.out.println("Enter age: ");
         boolean hasnextint = myObj.hasNextInt();// checks if it hat only intiger value if not will return false
+
         if (hasnextint) {
             // Numerical input
             int age = myObj.nextInt();// next int only takes one int value and skips the next user values if we use
@@ -29,6 +30,8 @@ class Main {
             System.out.println("Name: " + name);
 
             System.out.println("Salary: " + salary);
+        } else {
+            System.out.println("you enterd informal entries");
         }
         myObj.close();
     }
